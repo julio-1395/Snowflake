@@ -1,0 +1,6 @@
+# Objective: To give 5 users the privileges to view and edit 
+my board called "Sales" in snowflake.
+
+# The names of the users are: Marcos, Tomas, James, Lucia and Carlos.
+
+# Name of the role of the table "Sales" is: production
