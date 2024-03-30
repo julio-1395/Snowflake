@@ -1,0 +1,9 @@
+Data source: 
+I have 5 CSV files that are inside a folder called "1st Quarter" 
+from AWS S3, each CSV is named: 
+Sales, Costs, Electricity, Transport, Human Resources and Investment. 
+
+Data type: File is CSV
+
+Objective: 
+Load the 5 CSV files into snowflake using COPY INTO.
